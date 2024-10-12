@@ -25,11 +25,6 @@ This project implements an advanced machine learning pipeline for predicting cus
 - Utility functions for plotting and evaluation
 
 
-#Feature Importance
-![image](https://github.com/user-attachments/assets/51b2332e-202e-408c-ba9c-a3d08443db53)
-
-#ROC Curve
-![image](https://github.com/user-attachments/assets/43f60b20-5334-49fa-b3f9-7ac9653e60f5)
 
 ## How to Use
 1. Ensure you have the required dependencies installed (pandas, numpy, scikit-learn, matplotlib, seaborn, scipy)
@@ -42,6 +37,12 @@ This project implements an advanced machine learning pipeline for predicting cus
    - A submission file `submission_optimized.csv`
    - ROC curve comparison plot (`roc_curves_comparison.png`)
    - Feature importance plot (`feature_importance.png`)
+
+#Feature Importance
+![image](https://github.com/user-attachments/assets/51b2332e-202e-408c-ba9c-a3d08443db53)
+
+#ROC Curve
+![image](https://github.com/user-attachments/assets/43f60b20-5334-49fa-b3f9-7ac9653e60f5)
 
 ## Additional Statistical Measures
 
