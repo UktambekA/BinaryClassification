@@ -38,10 +38,10 @@ This project implements an advanced machine learning pipeline for predicting cus
    - ROC curve comparison plot (`roc_curves_comparison.png`)
    - Feature importance plot (`feature_importance.png`)
 
-#Feature Importance
+# Feature Importance
 ![image](https://github.com/user-attachments/assets/51b2332e-202e-408c-ba9c-a3d08443db53)
 
-#ROC Curve
+# ROC Curve
 ![image](https://github.com/user-attachments/assets/43f60b20-5334-49fa-b3f9-7ac9653e60f5)
 
 ## Additional Statistical Measures
@@ -72,5 +72,4 @@ The project outputs several key results:
 - Add more sophisticated feature selection techniques
 - Integrate explainable AI techniques for model interpretation
 
-## Contributors
-[O'ktambek Amonov]
+
