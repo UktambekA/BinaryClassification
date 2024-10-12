@@ -24,6 +24,13 @@ This project implements an advanced machine learning pipeline for predicting cus
 - `OptimizedModelTrainer`: Class for training and ensembling models
 - Utility functions for plotting and evaluation
 
+
+#Feature Importance
+![image](https://github.com/user-attachments/assets/51b2332e-202e-408c-ba9c-a3d08443db53)
+
+#ROC Curve
+![image](https://github.com/user-attachments/assets/43f60b20-5334-49fa-b3f9-7ac9653e60f5)
+
 ## How to Use
 1. Ensure you have the required dependencies installed (pandas, numpy, scikit-learn, matplotlib, seaborn, scipy)
 2. Place your `train.csv` and `test.csv` files in the same directory as the script
