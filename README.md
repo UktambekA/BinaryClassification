@@ -36,7 +36,7 @@ This project implements an advanced machine learning pipeline for predicting cus
 2. Place your `train.csv` and `test.csv` files in the same directory as the script
 3. Run the main script:
    ```
-   python main.py
+   python main.ipynb
    ```
 4. The script will generate:
    - A submission file `submission_optimized.csv`
